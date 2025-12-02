@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "mix juiceのいうとおり",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-02T08:51:15.122349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "mix juiceのいうとおり",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_mix_juiceのいうとおり_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mix juiceのいうとおり",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_mix_juiceのいうとおり_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
